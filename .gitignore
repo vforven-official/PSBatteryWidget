@@ -1,0 +1,42 @@
+# Generated Python files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build outputs and local packages
+build/
+dist/
+*.exe
+*.zip
+
+# Per-user widget preferences
+widget_config.json
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Editor, agent, and operating system files
+.idea/
+.vscode/
+.codex/
+.agents/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store

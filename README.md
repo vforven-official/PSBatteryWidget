@@ -61,4 +61,3 @@ The executable is created at `dist\PSBatteryWidget.exe`. The build specification
 ## Device limitations
 
 The current reader handles the first detected supported controller and one PULSE headset entry. Battery percentages depend on device reports and Windows Bluetooth properties; they may update in steps. A newly connected device can briefly show **Checking...** before a reading becomes available. Hardware compatibility can vary with firmware, drivers, and connection mode.
-
