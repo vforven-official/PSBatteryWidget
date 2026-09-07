@@ -14,6 +14,14 @@ The ready-to-run Windows app is available on the **[Releases page](https://githu
 
 Your preferences are saved beside the executable in `widget_config.json`. Use the tray menu's **Exit** option to close the app.
 
+## Screenshots
+
+Light and dark themes, captured from the application's widget using PyQt. Battery levels are sample values for illustration; previews are enlarged for readability.
+
+| Light theme | Dark theme |
+| --- | --- |
+| <img src="docs/screenshots/widget-light.png" alt="Light theme showing DualSense charging at 75% and PULSE Elite at 62%" width="392"> | <img src="docs/screenshots/widget-dark.png" alt="Dark theme showing DualSense charging at 75% and PULSE Elite at 62%" width="392"> |
+
 ## Features
 
 - DualSense and DualSense Edge battery readings over USB or Bluetooth.
