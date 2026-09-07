@@ -2,6 +2,18 @@
 
 A compact Windows desktop widget and system tray app for checking the battery status of PlayStation accessories.
 
+## Download and run (Windows)
+
+**[Download PSBatteryWidget v1.0.0 (.exe)](https://github.com/vforven-official/PSBatteryWidget/releases/download/v1.0.0/PSBatteryWidget.exe)**
+
+The ready-to-run Windows app is available on the **[Releases page](https://github.com/vforven-official/PSBatteryWidget/releases/latest)**. No Python installation or build step is needed.
+
+1. Download `PSBatteryWidget.exe` from the release's **Assets** section.
+2. Place it in a permanent folder you can write to, then double-click it to run.
+3. Connect your supported accessory and use the system tray icon to show the widget or change settings.
+
+Your preferences are saved beside the executable in `widget_config.json`. Use the tray menu's **Exit** option to close the app.
+
 ## Features
 
 - DualSense and DualSense Edge battery readings over USB or Bluetooth.
